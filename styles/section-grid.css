@@ -1,0 +1,160 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  grid-template-rows: 1fr 1fr; 
+ gap: 5px;
+ 
+  margin-top: 10px;
+}
+.first-grid-container{
+  background-color: rgb(246, 246, 246);
+  text-align: center;
+   
+   
+   margin-left: 2px;
+  
+}
+
+
+
+
+
+.icon-first-grid,
+.icon-third-grid{
+display: flex;
+margin-left: 200px;
+margin-bottom: 8px;
+margin-top: 40px;
+
+
+}
+
+.icon-grid{
+  width: 20px;
+  height: 20px
+}
+
+
+.first-grid-sub,
+.third-grid-sub{
+font-size: 20px;
+font-weight: bold;
+}
+
+
+.icon-second-grid
+{
+   border-style: none;
+   background-color: rgb(76, 150, 229);
+   width: 40px;
+   margin-left: 230px;
+   color: white;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   border-radius: 15px;
+   padding-left: 0;
+   padding-right: 0;
+   margin-bottom: 5px;
+}
+
+
+
+.icon-grid-second{
+width: 500px;
+height: 400px;
+
+}
+
+.second-grid-container{
+ background-color: rgb(246, 246, 246);
+
+  text-align: center;
+   padding-top: 50px;
+ 
+
+ 
+}
+
+
+.button-grid{
+   display: flex;
+   align-items: center;
+}
+
+.button-first-grid{
+  background-color: rgb(76, 150, 229);
+  color: white;
+  margin-left: 180px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 15px;
+  border-style: none;
+}
+
+.button-second-grid{
+  background-color: white;
+  color: rgb(76, 150, 229);
+  border-color: rgb(76, 150, 229);
+ margin-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition-duration: 0.15s;
+  border-style: solid;
+}
+
+
+.button-second-grid:hover{
+  background-color: rgb(76, 150, 229);
+  color: white;
+}
+
+
+
+
+
+.third-grid-container{
+  background-color: rgb(246, 246, 246);
+
+  text-align: center;
+   padding-top: 10px;
+   
+}
+
+.icon-fourth-grid{
+  border-style: none;
+   background-color: rgb(76, 150, 229);
+   width: 70px;
+   margin-left: 200px;
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 15px;
+   padding-left: 0;
+   padding-right: 10px;
+   padding-left: 10px;
+   margin-bottom: 5px;
+   
+}
+
+
+
+
+
+
+
+.fourth-grid-container{
+  background-color: rgb(246, 246, 246);
+
+  text-align: center;
+   padding-top: 10px;
+ 
+   
+  
+}
+

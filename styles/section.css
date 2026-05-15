@@ -1,0 +1,98 @@
+
+
+.sub-third-container{
+  background: orangered;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  padding: 8px 8px 8px 8px;
+  margin-left: 450px;
+  margin-top: 20px;
+  transition: 0.5s;
+}
+
+.sub-third-container:hover{
+  background-color: rgb(60, 60, 183);
+}
+
+.sub-third-container:active{
+  border-color: white;
+  background-color: blue;
+}
+
+.fourth-container{
+  background-color: rgb(246, 246, 246);
+  margin-top: 10px;
+
+}
+
+.fifth-container{
+   background-color: rgb(246, 246, 246);
+  margin-top: 10px;
+
+}
+
+.sub-buts{
+  background-color: rgb(76, 150, 229);
+    color: white;
+      padding-top: 10px;
+       padding-bottom: 10px;
+       padding-left: 20px;
+       padding-right: 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 15px;
+    
+}
+
+.sub-but{
+
+       background-color: white;
+       color:rgb(76, 150, 229);
+       margin-left: 10px;
+      border-style: solid;
+       border-color: rgb(76, 150, 229);
+       padding-top: 10px;
+       padding-bottom: 10px;
+       padding-left: 20px;
+       padding-right: 20px;
+    border-radius: 25px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.2;
+}
+
+
+.sub-but:hover{
+background-color: rgb(76, 150,229);
+color: white;
+border-style: none;
+}
+
+.fourth-sub-container{
+  display: flex;
+  margin-left: 370px;
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+
+.iphone-image-container{
+  width: 500px;
+  height: 300px;
+  margin-left: 200px;
+  margin-top: 20px;
+  
+  
+}
+
+
+.iphone-image-sub-container{
+  width: 700px;
+  height: 400px;
+  margin-left: 150px;
+  margin-top: 10px;
+  border-style: none;
+  
+}
+
